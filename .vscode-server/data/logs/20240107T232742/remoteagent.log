@@ -1,0 +1,22 @@
+2024-01-07 23:27:43.013 [info] 
+
+
+
+
+2024-01-07 23:27:43.013 [info] Extension host agent started.
+2024-01-07 23:27:43.013 [info] Started initializing default profile extensions in extensions installation folder. file:///home/ubuntu/.vscode-server/extensions
+2024-01-07 23:27:43.022 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/ubuntu/.vscode-server/extensions
+2024-01-07 23:27:43.175 [info] [127.0.0.1][2288affb][ManagementConnection] New connection established.
+2024-01-07 23:27:43.297 [info] [127.0.0.1][ab94cbe1][ExtensionHostConnection] New connection established.
+2024-01-07 23:27:43.343 [info] [127.0.0.1][ab94cbe1][ExtensionHostConnection] <464> Launched Extension Host Process.
+2024-01-08 02:41:41.725 [warning] No ptyHost heartbeat after 6 seconds
+2024-01-08 03:18:37.306 [info] [127.0.0.1][2288affb][ManagementConnection] The client has reconnected.
+2024-01-08 03:18:37.418 [info] [127.0.0.1][ab94cbe1][ExtensionHostConnection] The client has reconnected.
+2024-01-08 03:34:00.504 [warning] No ptyHost heartbeat after 6 seconds
+2024-01-08 03:39:56.400 [info] [127.0.0.1][ab94cbe1][ExtensionHostConnection] The client has reconnected.
+2024-01-08 03:39:56.611 [info] [127.0.0.1][2288affb][ManagementConnection] The client has reconnected.
+2024-01-08 05:25:25.753 [warning] No ptyHost heartbeat after 6 seconds
+2024-01-08 05:30:16.554 [info] [127.0.0.1][ab94cbe1][ExtensionHostConnection] The client has reconnected.
+2024-01-08 05:30:17.261 [info] [127.0.0.1][2288affb][ManagementConnection] The client has reconnected.
+2024-01-08 05:49:51.925 [info] [127.0.0.1][2288affb][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-01-08 05:49:51.927 [info] [127.0.0.1][ab94cbe1][ExtensionHostConnection] <464> Extension Host Process exited with code: 0, signal: null.
